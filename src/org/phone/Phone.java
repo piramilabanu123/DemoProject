@@ -3,9 +3,11 @@ package org.phone;
 public class Phone {
 	private void phoneInfo() {
 		System.out.println("enter the PhoneInfo:");
+		System.out.println("enter the PhoneInfo2");
 	}
 	private void phoneName(String name) {
 		System.out.println("enter the phoneName:" +name);
+		
 	}
 	private void phoneNumber(int id) {
 		System.out.println("enter the phoneNumber is:" +id);	
