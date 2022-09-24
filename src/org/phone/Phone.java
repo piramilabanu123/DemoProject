@@ -4,13 +4,10 @@ public class Phone {
 	private void phoneInfo() {
 		System.out.println("enter the PhoneInfo:");
 		
-		System.out.println("enter the PhoneIn5");
+		System.out.println("enter the Phoone5");
 		
 		
-		
-		
-		
-		
+			
 		
 	}
 	private void phoneName(String name) {
